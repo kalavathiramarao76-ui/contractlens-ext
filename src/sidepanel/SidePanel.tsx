@@ -60,7 +60,7 @@ const SidePanel: React.FC = () => {
             C
           </div>
           <div>
-            <h1 className="text-base font-bold text-white">ContractLens AI</h1>
+            <h1 className="text-base font-bold text-white">ClauseGuard</h1>
             <p className="text-[10px] text-slate-400">Advanced Contract Risk Intelligence</p>
           </div>
         </div>

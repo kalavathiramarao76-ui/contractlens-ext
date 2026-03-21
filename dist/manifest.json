@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "ContractLens AI",
+  "name": "ClauseGuard \u2014 AI Contract Risk Analyzer & Clause Explainer",
   "version": "1.0.0",
-  "description": "AI-powered contract risk analysis, clause explanation, and comparison intelligence",
+  "description": "AI contract analyzer: detect risky clauses, explain legal terms & compare contracts. Free Chrome extension for legal review.",
   "permissions": [
     "sidePanel",
     "activeTab",
@@ -39,7 +39,9 @@
         "*://*.contractworks.com/*",
         "*://docs.google.com/*"
       ],
-      "js": ["content.js"]
+      "js": [
+        "content.js"
+      ]
     }
   ],
   "declarative_net_request": {
@@ -55,5 +57,6 @@
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
     "128": "icons/icon128.png"
-  }
+  },
+  "short_name": "ClauseGuard"
 }

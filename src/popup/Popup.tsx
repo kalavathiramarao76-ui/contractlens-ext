@@ -33,7 +33,7 @@ const Popup: React.FC = () => {
           C
         </div>
         <div>
-          <h1 className="text-lg font-bold text-white">ContractLens AI</h1>
+          <h1 className="text-lg font-bold text-white">ClauseGuard</h1>
           <p className="text-xs text-slate-400">Contract Risk Intelligence</p>
         </div>
         <button
@@ -95,7 +95,7 @@ const Popup: React.FC = () => {
       </div>
 
       <div className="mt-3 pt-2 border-t border-slate-800 text-center">
-        <span className="text-[10px] text-slate-600">Powered by ContractLens AI Engine</span>
+        <span className="text-[10px] text-slate-600">Powered by ClauseGuard Engine</span>
       </div>
     </div>
   );
