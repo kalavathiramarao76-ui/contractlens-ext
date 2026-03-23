@@ -1,3 +1,5 @@
+<p align="center"><img src="public/icons/logo.svg" width="128" height="128" alt="ClauseGuard Logo"></p>
+
 # ClauseGuard — AI Contract Risk Analyzer
 
 ![Version](https://img.shields.io/badge/version-1.0.0-e11d48?style=flat-square)
@@ -119,11 +121,12 @@ contractlens-ext/
 ## Screenshots
 
 <p align="center">
-  <img src="public/icons/icon128.png" alt="ClauseGuard Icon" width="128" />
+  <img src="public/icons/logo.svg" alt="ClauseGuard Logo" width="128" />
 </p>
 
 | Icon | Size |
 |------|------|
+| ![Logo](public/icons/logo.svg) | SVG Logo |
 | ![16px](public/icons/icon16.png) | 16x16 |
 | ![48px](public/icons/icon48.png) | 48x48 |
 | ![128px](public/icons/icon128.png) | 128x128 |
